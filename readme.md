@@ -34,10 +34,10 @@ docker-compose up
 docker-compose up -d
 ```
 
-*Access application *
-```
-http://localhost:8081
-```
+*Access application*
+
+[http://localhost:8081](http://localhost:8081)
+
 
 
 # Development Resources

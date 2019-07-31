@@ -1,6 +1,5 @@
-# Banglalink
-Asset lite application
-
+# Laravel 5.8 with Docker configured
+This is completely fresh laravel 5.8 application with docker configured. If you're looking for make your laravel project dockerize then this project will save your time. Because it's ready with docker configured !
 # Prerequisites
 If you're very new with docker you can read [this](https://bitpress.io/simple-approach-using-docker-with-php/) awesome article. If you already have very basic idea about docker you may skip this step.
 

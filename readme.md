@@ -9,7 +9,7 @@ If you're very new with docker you can read [this](https://bitpress.io/simple-ap
     ```
     sudo apt install docker-compose
     ```
-## Components
+### Environment you'll get
 1. PHP 7.2
 2. MySQL 5.7
 3. Laravel 5.8
